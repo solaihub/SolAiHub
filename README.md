@@ -79,3 +79,58 @@ To get started with **SolHub AI Trader**, follow these steps:
    ```bash
    git clone https://github.com/yourusername/SolHub-AI-Trader.git
    cd SolHub-AI-Trader
+
+2. Install dependencies:
+   - For backend:
+     ```bash
+     npm install
+     ```
+
+   - For frontend:
+     ```bash
+     cd frontend
+     npm install
+     ```
+
+3. Set up your **Solana wallet** and configure the **API keys** for Jupiter and Raydium integrations.
+
+4. Run the platform locally:
+   - For backend:
+     ```bash
+     npm start
+     ```
+
+   - For frontend:
+     ```bash
+     npm start
+     ```
+
+5. Navigate to `http://localhost:3000` to view the dashboard.
+
+## **Contributing**
+
+We welcome contributions to make **SolHub AI Trader** even better. Please follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature`).
+3. Commit your changes (`git commit -m 'Add new feature'`).
+4. Push to the branch (`git push origin feature/your-feature`).
+5. Open a Pull Request.
+
+## **License**
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
